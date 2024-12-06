@@ -2,4 +2,16 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <color name="primary_1">#FF0000</color>
+    <color name="primary_2">#FFA500</color>
+
+    <color name="azul">#2196F3</color> <!-- Azul -->
+    <color name="verde">#4CAF50</color> <!-- Verde -->
+    <color name="amarelo">#FFEB3B</color> <!-- Amarelo -->
+    <color name="laranja">#FF5722</color> <!-- Laranja -->
+    <color name="vermelho">#F44336</color> <!-- Vermelho -->
 </resources>
+
+
+

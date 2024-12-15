@@ -4,7 +4,8 @@ um app de android nativo com linguagem kotlin
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
-<img src="https://github.com/user-attachments/assets/dbbc1373-2525-409b-9731-96938576921e" width = 200/> <img src="https://github.com/user-attachments/assets/6f585372-78ae-4e38-aa2a-06af4e18ba57" width = 200/>
+<img src="https://github.com/user-attachments/assets/dbbc1373-2525-409b-9731-96938576921e" width = 200/> <img src="https://github.com/user-attachments/assets/a87fbd01-a039-4d2d-a395-7a09ecdff112" width = 200/>
+
 
 Screenshots
 
